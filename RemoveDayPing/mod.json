@@ -1,0 +1,18 @@
+{
+  "Name": "RemoveDayPing",
+  "Enabled": true,
+
+  "Description": "Removes the ping at the end of each day",
+  "Author": "Arcanan",
+  "Website": "https://github.com/Arcananix",
+
+  "Version": "1.0.0",
+  "PackagedOn": "2019-02-04",
+
+  "DLL": "RemoveDayPing.dll",
+  "DLLEntryPoint": "RemoveDayPing.Main.Init",
+  "DependsOn": [],
+  "ConflictsWith": [],
+
+  "Settings": {}
+}
